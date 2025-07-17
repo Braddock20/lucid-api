@@ -1,0 +1,27 @@
+{
+  "name": "lucid-api",
+  "version": "1.0.0",
+  "description": "🎵 Lucid API – A serverless YouTube-based music & video API with lyrics, playlists, streaming, and downloads.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "lucid",
+    "music api",
+    "youtube music",
+    "video downloader",
+    "lyrics",
+    "yt-stream",
+    "serverless",
+    "vercel"
+  ],
+  "author": "Braddock Ikubano",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "api-dylux": "^1.8.5",
+    "yt-search": "^2.11.1"
+  }
+}
